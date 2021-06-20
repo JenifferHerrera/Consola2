@@ -1,0 +1,13 @@
+C:\Users\Margarita\Documents\FUNDAMENTOS PROGRAM\Programacion Visual\App\MiPrimerConsole\obj\MCD\Debug\netcoreapp3.1\MiPrimerConsole.csproj.AssemblyReference.cache
+C:\Users\Margarita\Documents\FUNDAMENTOS PROGRAM\Programacion Visual\App\MiPrimerConsole\obj\MCD\Debug\netcoreapp3.1\MiPrimerConsole.AssemblyInfoInputs.cache
+C:\Users\Margarita\Documents\FUNDAMENTOS PROGRAM\Programacion Visual\App\MiPrimerConsole\obj\MCD\Debug\netcoreapp3.1\MiPrimerConsole.AssemblyInfo.cs
+C:\Users\Margarita\Documents\FUNDAMENTOS PROGRAM\Programacion Visual\App\MiPrimerConsole\obj\MCD\Debug\netcoreapp3.1\MiPrimerConsole.csproj.CoreCompileInputs.cache
+C:\Users\Margarita\Documents\FUNDAMENTOS PROGRAM\Programacion Visual\App\MiPrimerConsole\bin\MCD\Debug\netcoreapp3.1\MiPrimerConsole.exe
+C:\Users\Margarita\Documents\FUNDAMENTOS PROGRAM\Programacion Visual\App\MiPrimerConsole\bin\MCD\Debug\netcoreapp3.1\MiPrimerConsole.deps.json
+C:\Users\Margarita\Documents\FUNDAMENTOS PROGRAM\Programacion Visual\App\MiPrimerConsole\bin\MCD\Debug\netcoreapp3.1\MiPrimerConsole.runtimeconfig.json
+C:\Users\Margarita\Documents\FUNDAMENTOS PROGRAM\Programacion Visual\App\MiPrimerConsole\bin\MCD\Debug\netcoreapp3.1\MiPrimerConsole.runtimeconfig.dev.json
+C:\Users\Margarita\Documents\FUNDAMENTOS PROGRAM\Programacion Visual\App\MiPrimerConsole\bin\MCD\Debug\netcoreapp3.1\MiPrimerConsole.dll
+C:\Users\Margarita\Documents\FUNDAMENTOS PROGRAM\Programacion Visual\App\MiPrimerConsole\bin\MCD\Debug\netcoreapp3.1\MiPrimerConsole.pdb
+C:\Users\Margarita\Documents\FUNDAMENTOS PROGRAM\Programacion Visual\App\MiPrimerConsole\obj\MCD\Debug\netcoreapp3.1\MiPrimerConsole.dll
+C:\Users\Margarita\Documents\FUNDAMENTOS PROGRAM\Programacion Visual\App\MiPrimerConsole\obj\MCD\Debug\netcoreapp3.1\MiPrimerConsole.pdb
+C:\Users\Margarita\Documents\FUNDAMENTOS PROGRAM\Programacion Visual\App\MiPrimerConsole\obj\MCD\Debug\netcoreapp3.1\MiPrimerConsole.genruntimeconfig.cache
